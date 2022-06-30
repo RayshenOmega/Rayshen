@@ -13,9 +13,6 @@
 
 <p align='center'>
   🪪 <b>My Places</b><br/><br/>
-    <a href="https://github.com/Rekuiemu">
-      <img src="https://visitor-badge.glitch.me/badge?page_id=Rekuiemu.Rekuiemu" />
-    </a>&nbsp;&nbsp;
   <a href="http://discord.gg/ggU8gJ7xjJ">
       <img src="https://img.shields.io/discord/602523857395384328?color=blue&label=Discord&logo=Discord&style=social" />
     </a>&nbsp;&nbsp;
@@ -56,3 +53,8 @@ Other        Unkown     ░░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+<p align='left'>
+    <a href="https://github.com/Rekuiemu">
+      <img src="https://visitor-badge.glitch.me/badge?page_id=Rekuiemu.Rekuiemu" />
+    </a>&nbsp;&nbsp;
+</p><br/>
