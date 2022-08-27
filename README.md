@@ -13,7 +13,7 @@
 
 <p align='center'>
   🪪 <b>My Places</b><br/><br/>
-  <a href="http://discord.gg/ggU8gJ7xjJ">
+  <a href="https://discord.gg/J3PYRGHZ3k">
       <img src="https://img.shields.io/discord/602523857395384328?color=blue&label=Discord&logo=Discord&style=social" />
     </a>&nbsp;&nbsp;
   <a href="https://twitter.com/rayshenrekuiemu">
