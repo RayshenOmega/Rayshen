@@ -1,30 +1,13 @@
 <br />
 
 <h1 align='center'>
-  Hello... I am Rekuiemu
+  Hello... I am Rayshen
 </h1><br/>
 
 <p align='center'>
   💮 <b>Alittle Info</b><br/><br/>
-  Not much for me to explain of myself. Aside from me being me. My Pillars that is the Symbol of me is 1: <b>Rayshen</b>, 2: <b>Raynia</b>, 3: <b>Nana</b>.
-  This account is controlled mainly by <b>Rayshen</b> Thus you can call me Rayshen or Ray or whatever.
+  Not much for me to explain of myself. Aside from me being me.
   If i like things i find on Github I WILL fork it. Its the Shiny aspect of me that wants to have a copy for myself.
-</p><br/>
-
-<p align='center'>
-  🪪 <b>My Places</b><br/><br/>
-  <a href="https://discord.gg/J3PYRGHZ3k">
-      <img src="https://img.shields.io/discord/602523857395384328?color=blue&label=Discord&logo=Discord&style=social" />
-    </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/rayshenrekuiemu">
-      <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Frayshenrekuiemu" />
-    </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UC5pdT3QfMgvONLnggbQ03_Q">
-      <img src="https://img.shields.io/youtube/channel/subscribers/UC5pdT3QfMgvONLnggbQ03_Q?label=Youtube&style=social" />
-    </a>&nbsp;&nbsp;
-    <a href="https://www.twitch.tv/Rayshen">
-      <img src="https://img.shields.io/twitch/status/Rayshen?style=social" />
-    </a>&nbsp;&nbsp;
 </p><br/>
 
 <p align='center'>
@@ -45,7 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Imagine      4 hrs      ██████████████░░░░░░░░░░░
+ToF          4 hrs      ██████████████░░░░░░░░░░░
 Acana        3 hrs      ███████████░░░░░░░░░░░░░░
 PGR          2 hrs      ███████░░░░░░░░░░░░░░░░░░
 Coding       1 hrs      █████░░░░░░░░░░░░░░░░░░░░
