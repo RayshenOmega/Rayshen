@@ -12,7 +12,7 @@
 
 <p align='center'>
   〽️ <b>Github Stats</b><br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=rekuiemu&show_icons=true&theme=monokai" alt="rekuiemu" width="350" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=RayshenOmega&show_icons=true&theme=monokai" alt="RayshenOmega" width="350" /> </p>
 </p><br/>
 
 <p align='center'>
