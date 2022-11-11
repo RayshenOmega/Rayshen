@@ -37,7 +37,7 @@ Other        Unknown    ░░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 <p align='left'>
-    <a href="https://github.com/Rekuiemu">
+    <a href="https://github.com/RayshenOmega">
       <img src="https://visitor-badge.glitch.me/badge?page_id=Rekuiemu.Rekuiemu" />
     </a>&nbsp;&nbsp;
 </p><br/>
